@@ -2,8 +2,6 @@
 
 *An intelligent multi-agent system that enables natural language control of drones through advanced AI reasoning, computer vision, and safety validation.*
 
-![AI Drone Control System](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=AI+Drone+Control+System)
-
 > **Note:** This project interfaces with physical drone hardware via ROS 2 and requires a compatible flight controller (ArduPilot/PX4) for live deployment.
 
 ---
@@ -205,31 +203,3 @@ To test the AI logic without hardware, you can modify `drone_tools.py` to use a 
 - [ ] Add support for multi-drone coordination and swarm behavior
 - [ ] Integrate reinforcement learning for optimized flight path planning
 - [ ] Expand vector store with pre-trained mission templates for common scenarios
-
----
-
-## 📝 License
-
-This project is available for educational and portfolio purposes. Please contact the author for commercial use inquiries.
-
----
-
-## 🤝 Connect
-
-**Stanisław Kołodziej**
-- GitHub: [@StasiekKolodz](https://github.com/StasiekKolodz)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT-4 and Vision API
-- LangChain team for the agent framework
-- ROS 2 community for robotics middleware
-- ArduPilot/PX4 teams for open-source flight control software
-
----
-
-*Built with ❤️ for autonomous systems and AI*
